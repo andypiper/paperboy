@@ -70,7 +70,7 @@ Fedora:
 
 ```bash
 sudo dnf install @development-tools vala meson ninja pkgconf-pkg-config \
-  gtk4-devel libadwaita-devel webkitgtk6-devel libsoup3-devel json-glib-devel \
+  gtk4-devel libadwaita-devel webkitgtk6.0-devel libsoup3-devel json-glib-devel \
   gdk-pixbuf2-devel libxml2-devel libgee-devel sqlite-devel
 
 # Rust toolchain and appimagetool (if desired):
